@@ -1,0 +1,22 @@
+{
+  "name": "mid-transition-example",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@ceramicnetwork/http-client": "^2.27.0",
+    "@ceramicnetwork/stream-model": "^1.12.0",
+    "@ceramicnetwork/stream-model-instance": "^1.12.0",
+    "@ceramicnetwork/stream-tile": "^2.26.0",
+    "dids": "^4.0.3",
+    "key-did-provider-ed25519": "^3.0.1",
+    "key-did-resolver": "^3.0.0"
+  }
+}
